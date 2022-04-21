@@ -4,7 +4,7 @@
   src: url('//at.alicdn.com/t/font_3329794_1agxb2q91gk.woff2?t=1649934783121') format('woff2'), url('//at.alicdn.com/t/font_3329794_1agxb2q91gk.woff?t=1649934783121') format('woff'), url('//at.alicdn.com/t/font_3329794_1agxb2q91gk.ttf?t=1649934783121') format('truetype');
 }
 .toutiao {
-  font-family: "toutiao" !important;
+  font-family: "toutiao";
   font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;

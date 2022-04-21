@@ -4,7 +4,7 @@
   src: url('//at.alicdn.com/t/font_3329794_1agxb2q91gk.woff2?t=1649934783121') format('woff2'), url('//at.alicdn.com/t/font_3329794_1agxb2q91gk.woff?t=1649934783121') format('woff'), url('//at.alicdn.com/t/font_3329794_1agxb2q91gk.ttf?t=1649934783121') format('truetype');
 }
 .toutiao {
-  font-family: "toutiao" !important;
+  font-family: "toutiao";
   font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
@@ -72,4 +72,16 @@
 }
 .toutiao-wode:before {
   content: "\e617";
+}
+body {
+  background-color: #f5f7f9;
+}
+.page-nav-bar {
+  background-color: green !important;
+}
+.page-nav-bar .van-nav-bar__title {
+  color: #fff !important;
+}
+.van-nav-bar .van-icon {
+  color: #fff;
 }

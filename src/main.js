@@ -6,6 +6,9 @@ import store from './store'
 import '@/styles/index.less'
 import Vant from 'vant'
 import 'vant/lib/index.css'
+import './utils/dayjs'
+// 动态设置rem基准值
+import 'amfe-flexible'
 
 // 注册使用vant组件库
 Vue.use(Vant)
